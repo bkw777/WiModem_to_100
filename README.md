@@ -19,3 +19,5 @@ But notably, NOT the Tandy Model 102.
 The Tandy 102 has the same DTE-yet-female serial port, so electrically this would work, but the db25 plug on the Tandy 102 is arranged upside down from the rest, and so this would point the WiModem232 down into your table.
 
 But for Tandy 102, you can use an ordinary 25-pin mini/slim gender-changer, and the WiModem will point straight out from the back of the Tandy 102 instead of standing upright, but will at least be facing up so the LED and OLED screen are visible.
+
+Connectors: <https://www.digikey.com/short/z9nm2v>
