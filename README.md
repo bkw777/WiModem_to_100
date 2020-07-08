@@ -1,6 +1,8 @@
 # WiModem_to_100
 
-RS-232 male-male gender-changer for connecting a WiModem232 to a TRS-80 Model 100, or any of the several similar machines.
+RS-232 male-male gender-changer for connecting a [WiModem232](https://www.cbmstuff.com/proddetail.php?prod=WiModem232OLED) to a TRS-80 Model 100, or any of the several similar machines.
+
+![](WiModem_to_100.png)
 
 Electrically, this is the same as any other db25 male-to-male rs232 gender-changer.  
 The rs232 pins (1-8,20,22), are connected 1:1 from one connector to the other. No null-modem or translateing between DCE and DTE etc.
