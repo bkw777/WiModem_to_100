@@ -1,4 +1,4 @@
-1087490147859433
+1101445833736433
 0_LOCAL
 DSUB-25_Male_EdgeMount_P2.77mm
 25-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
@@ -53043,8 +53043,8 @@ Phone_Jack_87180-062LF
 
 
 0
-6
-6
+2
+2
 digikey-footprints
 Photodiode_3mm_Radial
 http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf
@@ -53325,6 +53325,13 @@ http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf
 0
 4
 4
+digikey-footprints
+QFN-10-1EP_3x3mm
+
+
+0
+11
+11
 digikey-footprints
 QFN-20-1EP_3x3mm
 
@@ -54039,6 +54046,13 @@ http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
 0
 24
 24
+digikey-footprints
+Socket_DIP-28_7.62mm_Conn
+http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
+
+0
+28
+28
 digikey-footprints
 Socket_DIP-28_15.24mm_Conn
 http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf

@@ -4,20 +4,22 @@ RS-232 male-male gender-changer for connecting a [WiModem232](https://www.cbmstu
 
 ![](WiModem_to_100.png)
 
-Electrically, this is the same as any other db25 male-to-male rs232 gender-changer.  
-The rs232 pins (1-8,20,22), are connected 1:1 from one connector to the other. No null-modem or translateing between DCE and DTE etc.
+Electrically, this is the same as any other db25 male-to-male rs232 gender-changer. 
+The pins used by RS-232 (1-8,20,22), are connected 1:1 from one connector to the other. No null-modem or converting between between DCE and DTE etc.
 
-But the plugs are arranged in a particular orientation to connect a WiModem232 to a TRS-80 Model 100,  
-or several other similar machines that have the same unusual rs232 connector, which is a db25, wired DTE, but with a female plug.  
+Physically the plugs are arranged in a particular orientation to connect a WiModem232 to a TRS-80 Model 100,  
+or several other similar machines that have the same unusual rs232 connector, which is a db25, wired DTE, but with a female connector.  
 These include at least:  
 :TRS-80/Tandy Model 100, 200, & 600  
 :NEC PC-8201, PC-8201a, & PC-8300  
-Probably also Kyotronic KC-85, & Olivetti MC-10  
+:Kyocera/Kyotronic KC-85
 
-But notably, NOT the Tandy Model 102.
+But notably, NOT these:
+:Tandy Model 102  
+:Olivetti M10  
 
-The Tandy 102 has the same DTE-yet-female serial port, so electrically this would work, but the db25 plug on the Tandy 102 is arranged upside down from the rest, and so this would point the WiModem232 down into your table.
+The Tandy 102 & Olivetti M10 have the same DTE-yet-female serial port, so electrically this would work, but the "D" shape of the DB25 plug is arranged upside down from the rest, and so this adapter would point the WiModem232 down into your table.
 
-But for Tandy 102, you can use an ordinary 25-pin mini/slim gender-changer, and the WiModem will point straight out from the back of the Tandy 102 instead of standing upright, but will at least be facing up so the LED and OLED screen are visible.
+For those machines, you can use an ordinary [25-pin mini gender-changer](https://duckduckgo.com/?q=db25+mini+gender+changer+male), and the WiModem will point straight out from the back of the machine instead of standing vertical, but will at least be facing up so the LED and OLED screen are visible.
 
-Connectors: <https://www.digikey.com/short/z9nm2v>
+This PCB is designed to use [db25 connectors with through-hole legs](https://www.digikey.com/short/z9nm2v), not solder cups.  
