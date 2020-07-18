@@ -29,7 +29,7 @@ For Tandy 102 & Olivetti M10, you can use an ordinary [25-pin mini gender-change
 This PCB is designed to use [db25 connectors with through-hole legs](https://www.digikey.com/short/z9nm2v), not solder cups.  
 
 # Power from BCR port  
-[BCR to USB power adapter](https://oshpark.com/shared_projects/xR58OjQs)  
+[BCR to USB power adapter](https://github.com/bkw777/BCR_USB_PWR)  
 USB Cable:  
 [TANDY 100 & 200](https://www.aliexpress.com/item/4000924923480.html) Color: Right,  Length: 25cm  
 [TANDY 102 & Olivetti M10](https://www.aliexpress.com/item/32404719272.html) Color: 3,  USB-A-Right USB-Mini-Right  
