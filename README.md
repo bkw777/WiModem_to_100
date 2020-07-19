@@ -29,8 +29,16 @@ For Tandy 102 & Olivetti M10, you can use an ordinary [25-pin mini gender-change
 This PCB is designed to use [db25 connectors with through-hole legs](https://www.digikey.com/short/z9nm2v), not solder cups.  
 
 # Power from BCR port  
+You can power the WiModem232 from the computer with this BCR-USB-Power adapter and a usb cable.
+
 [BCR to USB power adapter](https://github.com/bkw777/BCR_USB_PWR)  
-USB Cable:  
-[TANDY 100 & 200](https://www.aliexpress.com/item/4000924923480.html) Color: Right,  Length: 25cm  
-[TANDY 102 & Olivetti M10](https://www.aliexpress.com/item/32404719272.html) Color: 3,  USB-A-Right USB-Mini-Right  
-[NEC](https://www.aliexpress.com/item/4000344777419.html) or [NEC](https://www.aliexpress.com/item/32404719272.html) Color: 4,  USB-A-Left USB-Mini-Right  
+
+The different computer models need different usb cables to get the most tidy arrangement.  
+The WiModem232 end of the cable is the same in all cases.  
+The cable should be about 9 inches (250mm) long in all cases.  
+The best computer-end of the cable is different for different computer models.  
+|Computer Model|Computer End|WiModem232 End|Links|
+|---|---|---|---|
+| TANDY 100 & 200 | ![](USB_A_100_200.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/4000924923480.html><br>Color: Right,  Length: 25cm |
+| TANDY 102 & Olivetti M10 | ![](USB_A_102_M10.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/32404719272.html><br>Color: 3,  USB-A-Right USB-Mini-Right |
+| NEC PC-8201, PC-8201a, & PC-8300 | ![](USB_A_NEC.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/32404719272.html><br>Color: 4,  USB-A-Left USB-Mini-Right |  
