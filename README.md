@@ -29,9 +29,9 @@ For Tandy 102 & Olivetti M10, you can use an ordinary [25-pin mini gender-change
 This PCB is designed to use [db25 connectors with through-hole legs](https://www.digikey.com/short/z9nm2v), not solder cups.  
 
 # Power from BCR port  
+![](https://github.com/bkw777/BCR_USB_PWR/blob/master/BCR_USB_PWR.png)  
 You can power the WiModem232 from the computer with this [BCR-USB-Power adapter](https://github.com/bkw777/BCR_USB_PWR)  
  and a usb cable.  
-![](https://github.com/bkw777/BCR_USB_PWR/blob/master/BCR_USB_PWR.png)  
 
 The different computer models need different usb cables to get the most tidy arrangement.  
 The WiModem232 end of the cable is the same in all cases.  
