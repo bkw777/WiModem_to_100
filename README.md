@@ -38,11 +38,11 @@ The WiModem232 end of the cable is the same in all cases.
 The cable should be about 9 inches (250mm) long in all cases.  
 The best computer-end of the cable is different for different computer models.  
 Not for Kyocera KC-85 or TANDY 600, they do not have a BCR port.
-|Computer Model|Computer End|WiModem232 End|Links|
+|Computer Model|Computer End|WiModem232 End|Possible sources|
 |---|---|---|---|
 | TANDY 100 & 200 | ![](USB_A_100_200.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/4000924923480.html><br>Color: Right,  Length: 25cm |
-| TANDY 102 & Olivetti M10 | ![](USB_A_102_M10.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/32404719272.html><br>Color: 3,  USB-A-Right USB-Mini-Right<p><https://www.amazon.com/dp/B07P76SHHM/><br>Color: USB A Right-mini usb right |
-| NEC PC-8201, PC-8201a, & PC-8300 | ![](USB_A_NEC.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/32404719272.html><br>Color: 4,  USB-A-Left USB-Mini-Right<p><https://www.amazon.com/dp/B07P68QFSH/><br>Color: USB A Left-mini usb right |  
+| TANDY 102 & Olivetti M10 | ![](USB_A_102_M10.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/32404719272.html><br>Color: 3,  USB-A-Right USB-Mini-Right<hr><https://www.amazon.com/dp/B07P76SHHM/><br>Color: USB A Right-mini usb right |
+| NEC PC-8201, PC-8201a, & PC-8300 | ![](USB_A_NEC.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/32404719272.html><br>Color: 4,  USB-A-Left USB-Mini-Right<hr><https://www.amazon.com/dp/B07P68QFSH/><br>Color: USB A Left-mini usb right |  
 
 # Case
 This is just the standard case from the CBMSTUFF web site, not a new design to include this adapter.  
