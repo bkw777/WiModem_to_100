@@ -37,6 +37,7 @@ The different computer models need different usb cables to get the most tidy arr
 The WiModem232 end of the cable is the same in all cases.  
 The cable should be about 9 inches (250mm) long in all cases.  
 The best computer-end of the cable is different for different computer models.  
+Not for Kyocera KC-85 or TANDY 600, they do not have a BCR port.
 |Computer Model|Computer End|WiModem232 End|Links|
 |---|---|---|---|
 | TANDY 100 & 200 | ![](USB_A_100_200.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/4000924923480.html><br>Color: Right,  Length: 25cm |
