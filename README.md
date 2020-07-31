@@ -35,7 +35,7 @@ You can power the WiModem232 from the computer with this [BCR-USB-Power adapter]
 
 The different computer models need different usb cables to get the most tidy arrangement.  
 The WiModem232 end of the cable is the same in all cases.  
-The cable should be about 9 inches (250mm) long in all cases.  
+The cable should be about 200mm-300mm long for any NEC model,   
 The best computer-end of the cable is different for different computer models.  
 Not for Kyocera KC-85 or TANDY 600, they do not have a BCR port.
 |Computer Model|Computer End|WiModem232 End|Possible sources|
