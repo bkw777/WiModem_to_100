@@ -41,7 +41,7 @@ Not for Kyocera KC-85 or TANDY 600, they do not have a BCR port.
 |Computer Model|Computer End|WiModem232 End|Possible sources|
 |---|---|---|---|
 | TRS-80 Model 100<br>TANDY 102<br>TANDY 200<br>Olivetti M10 | ![](USB_A_100_200.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/4000924923480.html><br>Color: Right,  Length:<br> 25CM for Model 100, 0.5M for everything else<hr>OR <https://www.aliexpress.com/item/32312726457.html><br>for any/all models |
-| NEC PC-8201, PC-8201a, & PC-8300 | ![](USB_A_NEC.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/32404719272.html><br>Color: 4,  USB-A-Left USB-Mini-Right<hr><https://www.amazon.com/dp/B07P68QFSH/><br>Color: USB A Left-mini usb right |  
+| NEC PC-8201<br>NEC PC-8201a<br>NEC PC-8300 | ![](USB_A_NEC.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/32404719272.html><br>Color: 4,  USB-A-Left USB-Mini-Right<hr><https://www.amazon.com/dp/B07P68QFSH/><br>Color: USB A Left-mini usb right |  
 
 # Case
 This is just the standard case from the CBMSTUFF web site, not a new design to include this adapter.  
