@@ -30,7 +30,7 @@ This PCB is designed to use [db25 connectors with through-hole legs](https://www
 
 # Power from BCR port  
 <img src="https://github.com/bkw777/BCR_USB_PWR/blob/master/BCR_USB_PWR.png" width=300>    
-You can power the WiModem232 from the computer with this [BCR-USB-Power adapter](https://github.com/bkw777/BCR_USB_PWR)  
+You can power the WiModem232 from the computer with this [BCR-USB-Power adapter](https://github.com/bkw777/BCR_Breakout)  
  and a usb cable.  
 
 The different computer models need different usb cables to get the most tidy arrangement.  
