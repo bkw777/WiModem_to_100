@@ -1,6 +1,7 @@
 # WiModem232 to "Model T" portable computers
 
-![](WiModem_to_100.png)
+![](WiModem_to_100.png)  
+More pictures: <https://photos.app.goo.gl/hjoC3vnfZxWbFPRW6>
 
 RS-232 male-male gender-changer for connecting a [WiModem232](https://www.cbmstuff.com/proddetail.php?prod=WiModem232OLED) to a TRS-80 Model 100, or any of the similar machines which has a female DB25 RS-232 DTE connector.
 
