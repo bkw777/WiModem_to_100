@@ -5,6 +5,8 @@ More pictures: <https://photos.app.goo.gl/hjoC3vnfZxWbFPRW6>
 
 <a href="https://oshpark.com/shared_projects/AXNfGK0n"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a>
 
+[BOM from DigiKey](https://www.digikey.com/short/z9nm2v)
+
 RS-232 male-male gender-changer for connecting a [WiModem232](https://www.cbmstuff.com/proddetail.php?prod=WiModem232OLED) to a TRS-80 Model 100, or any of the similar machines which has a female DB25 RS-232 DTE connector.
 
 It does 3 things:
