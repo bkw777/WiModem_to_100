@@ -34,7 +34,7 @@ For Tandy 102 & Olivetti M10, you can use an ordinary [25-pin mini gender-change
 This PCB is designed to use [db25 connectors with through-hole legs](https://www.digikey.com/short/z9nm2v), not solder cups.  
 
 # Power from BCR port  
-<img src="https://github.com/bkw777/BCR_Breakout/blob/master/BCR_USB_PWR.png" width=300>  
+<img src="https://github.com/bkw777/BCR_Breakout/blob/master/BCR_USB_PWR.jpg" width=300>  
 You can power the WiModem232 from the computer with this <a href="https://github.com/bkw777/BCR_Breakout">BCR-USB power adapter</a> and a usb cable.  
 
 (Not Kyotronic KC-85 or TANDY 600, they do not have a BCR port)
