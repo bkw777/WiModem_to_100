@@ -37,15 +37,16 @@ This PCB is designed to use [db25 connectors with through-hole legs](https://www
 <img src="https://github.com/bkw777/BCR_Breakout/blob/master/BCR_USB_PWR.png" width=300>  
 You can power the WiModem232 from the computer with this <a href="https://github.com/bkw777/BCR_Breakout">BCR-USB power adapter</a> and a usb cable.  
 
-The different computer models need different usb cables to get the most tidy arrangement.  
-The WiModem232 end of the cable is the same in all cases.  
-The cable should be about 200mm-300mm long for any NEC model,   
-The best computer-end of the cable is different for different computer models.  
-Not for Kyocera KC-85 or TANDY 600, they do not have a BCR port.
-|Computer Model|Computer End|WiModem232 End|Possible sources|
+(Not Kyotronic KC-85 or TANDY 600, they do not have a BCR port)
+
+## USB Cables
+|Computer Model|Computer End|WiModem232 End|USB Cables|
 |---|---|---|---|
-| TRS-80&nbsp;Model&nbsp;100<br>TANDY&nbsp;102<br>TANDY&nbsp;200<br>Olivetti M10 | ![](USB_A_100_200.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/4000924923480.html><br>Color: Right<br>Length:<ul><li>25CM for Model 100</li><li>0.5M for everything else</li></ul><hr>OR <https://www.aliexpress.com/item/4000581204774.html><br>or <https://www.aliexpress.com/item/32312726457.html><br>Color: One elbow |
-| NEC&nbsp;PC-8201<br>NEC&nbsp;PC-8201a<br>NEC&nbsp;PC-8300 | ![](USB_A_NEC.png) | ![](USB_Mini_ALL.png) | <https://www.aliexpress.com/item/32404719272.html><br>Color: 4,  USB-A-Left USB-Mini-Right<hr><https://www.amazon.com/dp/B07P68QFSH/><br>Color: USB A Left-mini usb right |  
+| TRS-80&nbsp;Model&nbsp;100 | ![](USB_A_100_200.png) | ![](USB_Mini_ALL.png) | <https://amazon.com/dp/B00NIGPK62/><hr><https://www.aliexpress.com/item/32313051153.html><hr><https://www.usbfirewire.com/parts/rr-2mbr01-12gl.html#RR-2MBR01-06GL> |
+| TANDY&nbsp;102 | ![](USB_A_102_M10.png) | ![](USB_Mini_ALL.png) | <https://amazon.com/dp/B07WFZHS9D/><hr><https://www.aliexpress.com/item/32312742378.html><hr><https://www.usbfirewire.com/parts/rr-2mbr01-12gl.html#RR-2MBR01-18GL> |
+| TANDY&nbsp;200 | ![](USB_A_102_M10.png) | ![](USB_Mini_ALL.png) | <https://amazon.com/dp/B07WFZHS9D/><hr><https://www.aliexpress.com/item/4000323097708.html><br>&nbbsp;Color: Right<br>&nbsp;Length: 0.5M<hr><https://www.usbfirewire.com/parts/rr-2mbr01-12gl.html#RR-2MBR01-12GL> |
+| NEC&nbsp;PC-8201<br>NEC&nbsp;PC-8201a<br>NEC&nbsp;PC-8300 | ![](USB_A_NEC.png) | ![](USB_Mini_ALL.png) | <https://www.amazon.com/dp/B07P68QFSH/><hr><https://amazon.com/dp/B01CXT43N0/><hr><https://www.aliexpress.com/item/32404719272.html><br>&nbsp;Color: 4<br>&nbsp;USB-A-Left USB-Mini-Right<hr><https://www.usbfirewire.com/parts/rr-ar4tmbr1-xxg.html#RR-AR4TMBR1-05GL> |
+| Olivetti&nbsp;M10 | ![](USB_A_102_M10.png) | ![](USB_Mini_ALL.png) | <https://amazon.com/dp/B07P76SHHM/><hr><https://www.aliexpress.com/item/32404719272.html><br>&nbsp;Color: 3<br>&nbsp;USB-A-Right USB-Mini-Right<hr><https://www.usbfirewire.com/parts/rr-ar4mbr1-xxg.html#RR-AR4MBR1-12GL> |
 
 # Case
 This is just the standard case from the CBMSTUFF web site, not a new design to include this adapter.  
