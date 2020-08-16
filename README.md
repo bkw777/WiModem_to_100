@@ -1,6 +1,6 @@
 # WiModem232 to "Model T" portable computers
 
-![](WiModem_to_100.png)  
+![](WiModem_to_100.jpg)  
 More pictures: <https://photos.app.goo.gl/hjoC3vnfZxWbFPRW6>
 
 <a href="https://oshpark.com/shared_projects/AXNfGK0n"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a>

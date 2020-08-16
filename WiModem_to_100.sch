@@ -151,4 +151,46 @@ F 3 "" H 4420 2800 50  0001 C CNN
 	1    4420 2800
 	0    -1   -1   0   
 $EndComp
+Text Notes 3060 2500 0    50   ~ 0
+WiModem232\nDCE, DB25, Female
+Text Notes 3070 3000 0    50   ~ 0
+2 - RXD
+Wire Notes Line
+	4140 3000 3080 3000
+Text Notes 3070 3200 0    50   ~ 0
+3 - TXD
+Wire Notes Line
+	4140 3200 3080 3200
+Text Notes 3070 3400 0    50   ~ 0
+4 - CTS
+Wire Notes Line
+	4140 3400 3080 3400
+Text Notes 3070 3600 0    50   ~ 0
+5 - RTS
+Wire Notes Line
+	4140 3600 3080 3600
+Text Notes 3070 3800 0    50   ~ 0
+6 - DTR
+Wire Notes Line
+	4140 3800 3080 3800
+Text Notes 3070 4000 0    50   ~ 0
+7 - SG
+Wire Notes Line
+	4140 4000 3080 4000
+Text Notes 3070 4100 0    50   ~ 0
+20 - DSR
+Text Notes 3070 4500 0    50   ~ 0
+22 - RI
+Text Notes 3070 4200 0    50   ~ 0
+8 - DCD
+Wire Notes Line
+	4140 4200 3080 4200
+Wire Notes Line
+	4020 4100 3080 4100
+Wire Notes Line
+	4020 4500 3080 4500
+Text Notes 8190 2420 2    50   ~ 0
+TRS-80 Model 100\nDTE, DB25, Female
+Text Notes 2360 6220 0    100  ~ 0
+Electrically, this is just a straight-through gender-changer.\n\nThe only prupose for the PCB is the special physical orientation of the connectors.
 $EndSCHEMATC
