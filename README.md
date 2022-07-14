@@ -33,6 +33,7 @@ For Tandy 102 & Olivetti M10, you can use an ordinary [25-pin mini gender-change
 
 This PCB is designed to use [db25 connectors with through-hole legs](https://www.digikey.com/short/z9nm2v), not solder cups.  
 
+<!--
 # Power from BCR port  
 <img src="https://github.com/bkw777/BCR_Breakout/blob/master/BCR_USB_PWR.jpg" width=300>  
 You can power the WiModem232 from the computer with this <a href="https://github.com/bkw777/BCR_Breakout">BCR-USB power adapter</a> and a usb cable.  
@@ -47,6 +48,7 @@ You can power the WiModem232 from the computer with this <a href="https://github
 | TANDY&nbsp;200 | ![](USB_A_100_200.png)<br>![](USB_A_NEC.png) | ![](USB_Mini_ALL.png) | 30cm | <https://amazon.com/dp/B07WFZHS9D/><hr><https://www.aliexpress.com/item/4000323097708.html><br>&nbsp;Color: Right<br>&nbsp;Length: 0.5M<hr><https://www.usbfirewire.com/parts/rr-2mbr01-12gl.html#RR-2MBR01-12GL> |
 | NEC&nbsp;PC-8201<br>NEC&nbsp;PC-8201a<br>NEC&nbsp;PC-8300 | ![](USB_A_NEC.png) | ![](USB_Mini_ALL.png) | 20cm | <https://www.amazon.com/dp/B07P68QFSH/><hr><https://amazon.com/dp/B01CXT43N0/><hr><https://www.aliexpress.com/item/32404719272.html><br>&nbsp;Color: 4<br>&nbsp;USB-A-Left USB-Mini-Right<hr><https://www.usbfirewire.com/parts/rr-ar4tmbr1-xxg.html#RR-AR4TMBR1-05GL> |
 | Olivetti&nbsp;M10 | ![](USB_A_102_M10.png) | ![](USB_Mini_ALL.png) | 30cm | <https://amazon.com/dp/B07P76SHHM/><hr><https://www.aliexpress.com/item/32404719272.html><br>&nbsp;Color: 3<br>&nbsp;USB-A-Right USB-Mini-Right<hr><https://www.usbfirewire.com/parts/rr-ar4mbr1-xxg.html#RR-AR4MBR1-12GL> |
+-->
 
 # Case
 This is just the standard case from the CBMSTUFF web site, not a new design to include this adapter.  
